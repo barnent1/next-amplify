@@ -1,0 +1,4 @@
+type Prospects @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  email: String
+}

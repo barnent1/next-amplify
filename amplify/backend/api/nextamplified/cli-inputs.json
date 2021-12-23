@@ -3,11 +3,12 @@
   "serviceConfiguration": {
     "apiName": "nextamplified",
     "serviceName": "AppSync",
-    "gqlSchemaPath": "/tmp/amplify-953b71e1-4502-44ca-90e6-f158fc375688/amplify/backend/api/nextamplified/schema.graphql",
+    "gqlSchemaPath": "/Users/barnent1/Projects/next-amplified/amplify/backend/api/nextamplified/schema.graphql",
     "defaultAuthType": {
       "mode": "API_KEY",
-      "keyDescription": "api key description",
-      "expirationTime": 30
+      "expirationTime": 30,
+      "apiKeyExpirationDate": "2022-01-22T09:16:45.428Z",
+      "keyDescription": "nextamplified"
     },
     "additionalAuthTypes": [
       {
